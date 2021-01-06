@@ -99,3 +99,22 @@ img{
     object-position: center;
     
 }
+.edu h2{
+    text-align: center;
+}
+.three-by-one-edu{
+    box-shadow:15px 10px 330px gray;
+    height: 150px;
+    width: 25%;
+    float: left;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 20px;
+    background-color: white;
+}
+.last-edu{
+    margin-right: 4.5%;
+}
+.first-edu{
+    margin-left: 4.5%;
+}
