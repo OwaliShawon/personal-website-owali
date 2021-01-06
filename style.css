@@ -121,3 +121,7 @@ img{
 .find-me{
     text-align: center;
 }
+.find-me img{
+    height: 50px;
+    width: 50px;
+}
