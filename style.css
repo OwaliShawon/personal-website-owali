@@ -11,7 +11,7 @@ body{
 }
 
 .spcl-color{
-    color: orange;
+    color: blue;
 }
 .half-sec{
     width: 40%;
@@ -117,4 +117,7 @@ img{
 }
 .first-edu{
     margin-left: 4.5%;
+}
+.find-me{
+    text-align: center;
 }
