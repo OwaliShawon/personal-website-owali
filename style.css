@@ -99,6 +99,9 @@ img{
     object-position: center;
     
 }
+.edu{
+    margin-top: 150px;
+}
 .edu h2{
     text-align: center;
 }
@@ -120,8 +123,17 @@ img{
 }
 .find-me{
     text-align: center;
+    margin-top: 500px;
 }
 .find-me img{
     height: 50px;
     width: 50px;
+}
+footer{
+    clear: both;
+    background-color: blue;
+    text-align: center;
+    height: 20px;
+    margin-top: 300px;
+    
 }
